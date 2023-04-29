@@ -1,0 +1,23 @@
+@media (max-width: 600px) {
+
+    .nav .nav_link {
+        display: none;
+    }
+
+    .container .headline {
+        font-size: 32px;
+    }
+
+    .car_driver {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .car_driver img {
+        width: 344px;
+        height: 267px;
+    }
+
+}
